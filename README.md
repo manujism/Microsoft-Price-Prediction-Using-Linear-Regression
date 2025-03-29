@@ -12,7 +12,7 @@ Project Objectives
 5. Measure model performance using standard regression error metrics.
 6. Understand the mathematics and limitations behind the model.
 
-   -----
+-----
 
 
 Machine Learning Model Used : Linear Regression
