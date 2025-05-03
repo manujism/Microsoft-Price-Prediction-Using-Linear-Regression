@@ -1,6 +1,9 @@
 # Microsoft-Price-Prediction-Using-Linear-Regression
 
 This project is a time series analysis and linear regression modeling of Microsoft Corporation’s (MSFT) stock price over the last five years. It serves as a hands-on demonstration of using Python for financial data analysis, trend forecasting, and basic predictive modeling. The core goal is to analyze long-term price movement trends of MSFT stock and predict a simple linear trajectory using machine learning (Linear Regression). 
+By fitting a regression line to the historical closing prices, we can visually and mathematically understand how the stock has performed over a multi-year horizon.
+
+
 -------
 
 Project Objectives
